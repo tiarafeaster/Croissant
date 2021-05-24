@@ -12,9 +12,11 @@ body {
 a {
 	display: flex;
 	justify-content: space-between;
+	color: black;
 }
 
 h1 {
+	color: #f70776;
 }
 
 p {
