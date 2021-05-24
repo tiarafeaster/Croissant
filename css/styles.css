@@ -1,0 +1,27 @@
+body {
+	background: radial-gradient(
+		circle at 7.5% 24%,
+		rgb(237, 161, 193) 0%,
+		rgb(250, 178, 172) 25.5%,
+		rgb(190, 228, 210) 62.3%,
+		rgb(215, 248, 247) 93.8%
+	);
+	color: black;
+	text-align: center;
+}
+a {
+	display: flex;
+	justify-content: space-between;
+}
+
+h1 {
+}
+
+p {
+	display: block;
+	margin: 20px;
+}
+
+img {
+	border: 5px black solid;
+}
